@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage("A"){
             steps{
-                echo "========executing Asssaaaaaaacccccc========"
+                echo "========executing Asssaaaaaaacccccc========latest build"
             }
            
         }
